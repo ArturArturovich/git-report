@@ -1,2 +1,3 @@
 print("Hello world")
 Archi privet
+print("krasavchik")
