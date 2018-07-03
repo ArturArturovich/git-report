@@ -1,6 +1,6 @@
-print("Hello world")
-Archi privet
-print("krasavchik")
-print("hello my dear friend)
-print("Glad to see you")
 
+print("Hello world");
+Archi privet;
+print("krasavchik");
+print("hello my dear friend);
+print("Glad to see you");
